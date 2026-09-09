@@ -1,0 +1,5 @@
+from_address,to_address,amount
+0xSuspect_Burner_Wallet_A,0xSuspect_Intermediary_X1,2500.0
+0xLayering_Wallet_B,0xTarget_Ethereum_Offramp_Wallet,4900.0
+0xSuspect_Intermediary_X1,0xCoinDCXReceivingWallet,1250.0
+0xSuspect_Intermediary_X1,0xBinanceDepositHotWalletX901,1250.0

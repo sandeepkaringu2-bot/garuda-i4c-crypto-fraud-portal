@@ -1,0 +1,4 @@
+from_address,to_address,amount
+0xSuspect_Burner_Wallet_A,0xLayering_Wallet_X,2500
+0xLayering_Wallet_X,0xCoinDCXReceivingWallet,2450
+0xSuspect_Burner_Wallet_A,0xOffshore_Mixer_Node,7000

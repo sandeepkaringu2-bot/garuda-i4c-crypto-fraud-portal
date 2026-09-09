@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GARUDA",
+      "hasCanvas": false,
+      "bodyTextLen": 1943,
+      "bodyTextHash": "e434b55a7c30d412cf7983c0968ca0931e58fbcd458cfba8fe19e88421ed80e4",
+      "bodyTextPrefix": "GARUDA I4C · CIS Command Trace Complaints NCRP / SAHYOG VASPs In",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GARUDA",
+      "hasCanvas": false,
+      "bodyTextLen": 1776,
+      "bodyTextHash": "556c3a3e4ef1c110e621b9321287998835a554dccdaaf4838cb70c1e5c85baa7",
+      "bodyTextPrefix": "GARUDA EN हिं MINISTRY OF HOME AFFAIRS · CIS DIVISION GARUDA I4C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

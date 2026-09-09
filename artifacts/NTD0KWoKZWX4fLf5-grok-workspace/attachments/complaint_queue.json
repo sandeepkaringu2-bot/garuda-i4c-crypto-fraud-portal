@@ -1,0 +1,20 @@
+[
+    {
+        "complaint_id": "NCRP-2026-1001",
+        "victim_reported_wallet": "0xSuspect_Burner_Wallet_A",
+        "stolen_amount_usdt": 8500.0,
+        "fraud_typology": "Investment Scam"
+    },
+    {
+        "complaint_id": "NCRP-2026-1002",
+        "victim_reported_wallet": "0xLayering_Wallet_B",
+        "stolen_amount_usdt": 4200.0,
+        "fraud_typology": "Sextortion"
+    },
+    {
+        "complaint_id": "NCRP-2026-1003",
+        "victim_reported_wallet": "0xScam_Collection_TRON",
+        "stolen_amount_usdt": 12000.0,
+        "fraud_typology": "Ransomware"
+    }
+]
